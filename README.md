@@ -2,7 +2,7 @@
 
 ## installl libs
 
-pip install fastapi uvicorn pydantic transformers tensorflow
+pip install fastapi uvicorn pydantic vaderSentiment GoogleNews googletrans pytrends
 
 ## run no docker
 
